@@ -14,7 +14,7 @@ body {
 }
 .inf-main {
   background-color: #ffffff;
-  margin: 40px 40px 40px 0px;
+  /* margin: 40px 40px 40px 0px; */
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
   /* padding: 100px 90px; */
 }
@@ -24,7 +24,7 @@ body {
 .user {
   padding: 100px 0px 40px 90px;
   background-color: #1e2939;
-  background: linear-gradient(353deg, #fff 18.8%, #3a1021 19%, #3a1021 92.4%, #6a2232 92.6%);
+  background: linear-gradient(353deg, #fff 19.8%, #3a1021 20%, #3a1021 92.4%, #6a2232 92.6%);
   color: #fff;
 }
 .user-position {
@@ -170,7 +170,7 @@ body {
 
 .sidebar {
   background-color: #6a2232;
-  margin: 40px 0px 40px 40px;
+  /* margin: 40px 0px 40px 40px; */
   width: 370px;
   padding-top: 40px;
 }
@@ -211,7 +211,7 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: #ffffff;
-  opacity: 0.5;
+  opacity: 0.7;
 }
 .tech-list {
   color: #ffffff;
